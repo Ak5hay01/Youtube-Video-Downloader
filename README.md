@@ -25,25 +25,22 @@
   
         If you want to download a single video from youtube, you can specify the video link and run the script "ytdown.py" 
         you will need to specify the location where to download the file and you will get the video.
-        you can navigate to images folder to see "download_using_single_link.png" 
         
-        ![alt text](/images/download_using_single_link.PNG)
+   ![alt text](/images/download_using_single_link.PNG)
         
   # 2. Using multiple video links
   
         If you want to download multiple video from youtube, you can specify the video links and run the script "multiple_download.py" 
         you will need to specify the location where to download the file and you will get the video.
-        you can navigate to images folder to see "download_multiple_video_links.png" 
         
-        ![alt text](/images/download_multiple_video_links.PNG)
+   ![alt text](/images/download_multiple_video_links.PNG)
         
   # 3. Using video link from a file 
         
         If you want to download multiple videos from youtube using file, you can specify the link of the file which contains the video links and run the script "get_link_from_file.py" 
         you will need to specify the location where to download the file and you will get the video.
-        you can navigate to images folder to see "download_using_links_in_file.png" 
         
-        ![alt text](/images/download_using_links_in_file.PNG)
+   ![alt text](/images/download_using_links_in_file.PNG)
         
         
         
